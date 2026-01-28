@@ -1,0 +1,11 @@
+
+**/bin
+**/obj
+**/.vs
+**/.vscode
+**/.git
+**/node_modules
+**/.DS_Store
+**/Thumbs.db
+**/appsettings.Development.json
+
